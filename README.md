@@ -6,7 +6,8 @@
 	Network project 'Bilgi University | Comp322 - Network Programming
 =================================================================================
 
-Server::
+Server
+
 	(*)javac server.java 
 	
 	
@@ -18,9 +19,12 @@ Server::
 =================================================================================
 
 Client:
+
+
 	(*)Change host ip number from connection.java for connect to server 
 	   or you can enter an ip number when the program running...
 		- if you are running on localhost enter -> localhost
+	
 	
 	(*)javac Test.java 
 	
