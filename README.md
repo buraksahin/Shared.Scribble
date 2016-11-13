@@ -2,18 +2,13 @@
 				Shared scribble
   ------------------------------------------------------------------------
 
-
-================================================================================
-
-(!) - HTML Applet version couldn't run on some versions of the Java...
-
 =================================================================================
-
-
+	Network project 'Bilgi University | Comp322 - Network Programming
 =================================================================================
 
 Server::
-	(*)Only compile server.java for run...
+	(*)javac server.java 
+	(*)java server
 
 =================================================================================
 
@@ -25,6 +20,6 @@ Client:
 	   or you can enter an ip number when the program running...
 		- if you are running on localhost enter -> localhost
 	
-	(*)Compile and Run from Test.java (main class)
+	(*)javac Test.java || java Test (main class)
 	
 =================================================================================
