@@ -4,6 +4,7 @@
 
 ######Network project 'Bilgi University | Comp322 - Network Programming
 
+Clients share same screen and share there data on server.
 
 ######Server
 
@@ -24,5 +25,3 @@
 	
 	
 	(*)java Test (main class)
-	
-
