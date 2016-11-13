@@ -8,6 +8,8 @@
 
 Server::
 	(*)javac server.java 
+	
+	
 	(*)java server
 
 =================================================================================
@@ -20,6 +22,9 @@ Client:
 	   or you can enter an ip number when the program running...
 		- if you are running on localhost enter -> localhost
 	
-	(*)javac Test.java || java Test (main class)
+	(*)javac Test.java 
+	
+	
+	(*)java Test (main class)
 	
 =================================================================================
